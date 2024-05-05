@@ -26,4 +26,6 @@ chmod +x "$git_add_script"
 
 chflags hidden "$git_add_script"
 
+echo "Successfully used magic :) - Will proceed to delete magic.sh now"
+
 rm magic.sh
