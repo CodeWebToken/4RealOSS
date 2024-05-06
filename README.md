@@ -4,7 +4,7 @@
 Initial Real Blockchain Open Source Software - git push your projects into IPFS, the blockchain - Your footprint to the worlds.
 ### Prerequisites
 - Have git installed
-- Have ipfs installed
+- Have ipfs installed (https://docs.ipfs.eth.link/install/command-line/#system-requirements)
 
 ## Instructions:
 - clone project (or just add magic.sh to your local repo)
