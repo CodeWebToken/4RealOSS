@@ -19,5 +19,5 @@ Initial Real Blockchain Open Source Software - git push your projects into IPFS 
 
 #### Coming up..
 - command to trigger blockchain transaction to reference CID (Metamask)
-- UI similar to GitHub/GitLab/Gogs " for now use the one you always use :) " we will feature commit-to-blockchain buttons.
+- UI similar to GitHub/GitLab/Gogs " for now use the one you always use :) " we will feature commits-to-ipfs and commit-to-blockchain buttons.
 - Install globally on git to be applied to all/any repo.
