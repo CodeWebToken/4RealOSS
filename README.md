@@ -14,10 +14,11 @@ Initial Real Blockchain Open Source Software - git push your projects into IPFS 
   - Windows systems: bash magic.sh
 - proceed to use git normally as always, project will be pushed to ipfs eveytime you push to your remote repo.
 - your ipfs hashes (CID) are stored at the .ipfs_hashes file, we use these on the blockchain contract as reference to our projects. Just need to sign.
+- reference your project/ipfs hash on polygon blockchain @ https://polygonscan.com/verifyContract-solc?a=0xfa57b2c914ef81119fd490d54f4aa8e0156b9924&c=v0.6.8%2bcommit.0bbfe453&lictype=5
 
 ![IPFS_hash](IPFS_hash.jpeg)
 
 #### Coming up..
-- command to trigger blockchain transaction to reference CID (Metamask)
+- command to trigger blockchain transaction to reference CID (Metamask) Note: Already usable, contract deployed on Polygon!
 - UI similar to GitHub/GitLab/Gogs " for now use the one you always use :) " we will feature commits-to-ipfs and commit-to-blockchain buttons.
 - Install globally on git to be applied to all/any repo.
